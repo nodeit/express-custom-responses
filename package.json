@@ -1,0 +1,18 @@
+{
+  "name": "express-custom-responses",
+  "version": "1.0.0",
+  "description": "Add custom methods to express's response object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "response"
+  ],
+  "author": "Chris Gregory <chrisctiger@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "express": ">= 4.13.x < 5"
+  }
+}
