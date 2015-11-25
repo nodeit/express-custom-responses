@@ -3,7 +3,7 @@
 A custom middleware for express that allows you to add custom methods to the response object. This helps to normalize responses across your routes/controllers.
 
 ## Installation
-    npm install express-shoppify-responses
+    npm install express-shopify-responses
 
 ## Features
 
