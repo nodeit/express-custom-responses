@@ -14,5 +14,6 @@
   "license": "MIT",
   "peerDependencies": {
     "express": ">= 4.13.x < 5"
-  }
+  },
+  "private": true
 }
